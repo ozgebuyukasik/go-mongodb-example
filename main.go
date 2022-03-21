@@ -1,1 +1,1 @@
-package mongo_golang
+package main
