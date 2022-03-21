@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/julienschmidt/httprouter"
+	"github.com/ozgebuyukasik/mongo-golang/controllers"
 	"gopkg.in/mgo.v2"
 	"net/http"
 )
